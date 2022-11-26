@@ -1168,3 +1168,669 @@ JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55
 JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
 JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
 JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669450427626	geckodriver	INFO	Listening on 127.0.0.1:12669
+1669450430982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileQlvtZ4"
+1669450431783	Marionette	INFO	Marionette enabled
+1669450431792	Marionette	INFO	Listening on port 12694
+Read port: 12694
+WebDriver BiDi listening on ws://127.0.0.1:12670
+1669450431996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileQlvtZ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12670/devtools/browser/027c9de1-4836-4a1a-93d7-537751f5f1a1
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669450591463	Marionette	INFO	Stopped listening on port 12694
+[Parent 21488, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1669450593240	geckodriver	INFO	Listening on 127.0.0.1:12882
+1669450596300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCZ0vtg"
+1669450596659	Marionette	INFO	Marionette enabled
+1669450596663	Marionette	INFO	Listening on port 12896
+WebDriver BiDi listening on ws://127.0.0.1:12883
+Read port: 12896
+1669450596864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCZ0vtg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12883/devtools/browser/dbfd7127-e4a9-4d2f-b145-568bde5792f3
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/default/live/index.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+1669450733956	Marionette	INFO	Stopped listening on port 12896
+1669451311133	geckodriver	INFO	Listening on 127.0.0.1:13382
+1669451314149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilexqWXHN"
+1669451314498	Marionette	INFO	Marionette enabled
+1669451314503	Marionette	INFO	Listening on port 13395
+WebDriver BiDi listening on ws://127.0.0.1:13383
+Read port: 13395
+1669451314723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilexqWXHN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13383/devtools/browser/0b299f79-c890-4f91-97e3-933b9e3a179c
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:520:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669451847204	Marionette	INFO	Stopped listening on port 13395
+ttps://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fclient%3Dfirefox-b-d%26q%3Dcss%2Bselector%2Bselet%2Btag%2Bhave%2Bmacy%2Bclass&q=EhAgAbAR0AI-MKGpDs7IgHykGIeeh5wGIjDjDVslOz74fCELXG2UhUsdj-6Lhm2zip-5qAn8JDfA1qvJpoks3lWprsrDSRnwRWEyAXI, line 1: SyntaxError: expected expression, got ','
+1669451848610	Marionette	INFO	Stopped listening on port 13560
+9451793838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilelWERpZ"
+1669451794231	Marionette	INFO	Marionette enabled
+1669451794238	Marionette	INFO	Listening on port 13788
+Read port: 13788
+WebDriver BiDi listening on ws://127.0.0.1:13777
+1669451794353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilelWERpZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13777/devtools/browser/06f08ff3-c1c1-47be-ae0c-40fd307bf39d
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669451869222	Marionette	INFO	Stopped listening on port 13788
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669452090235	geckodriver	INFO	Listening on 127.0.0.1:14037
+1669452093251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWXvxQv"
+1669452093632	Marionette	INFO	Marionette enabled
+1669452093643	Marionette	INFO	Listening on port 14054
+Read port: 14054
+WebDriver BiDi listening on ws://127.0.0.1:14038
+1669452093783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWXvxQv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14038/devtools/browser/acde3e3a-e94d-46f9-832a-b00a00a1f2e3
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669452175561	Marionette	INFO	Stopped listening on port 14054
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669452282800	geckodriver	INFO	Listening on 127.0.0.1:14237
+1669452285833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUtCihi"
+1669452286161	Marionette	INFO	Marionette enabled
+1669452286166	Marionette	INFO	Listening on port 14253
+WebDriver BiDi listening on ws://127.0.0.1:14238
+Read port: 14253
+1669452286453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUtCihi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14238/devtools/browser/f673ddc3-758c-403d-a77d-147c09b5f1ab
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:520:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669452601079	Marionette	INFO	Stopped listening on port 14253
+1669452605155	geckodriver	INFO	Listening on 127.0.0.1:14566
+1669452608196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiledyIln9"
+1669452608520	Marionette	INFO	Marionette enabled
+1669452608526	Marionette	INFO	Listening on port 14581
+WebDriver BiDi listening on ws://127.0.0.1:14567
+Read port: 14581
+1669452608825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiledyIln9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14567/devtools/browser/d354f1d0-6c0f-4745-8a8f-03320d00b4ae
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669452690601	Marionette	INFO	Stopped listening on port 14581
+1669452691593	geckodriver	INFO	Listening on 127.0.0.1:14773
+1669452694626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilethUPLF"
+1669452694966	Marionette	INFO	Marionette enabled
+1669452694972	Marionette	INFO	Listening on port 14787
+WebDriver BiDi listening on ws://127.0.0.1:14774
+Read port: 14787
+1669452695257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilethUPLF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14774/devtools/browser/8c0702a2-73b0-481f-862b-dc937549a608
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669452925682	Marionette	INFO	Stopped listening on port 14787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "14985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUnlJw2"
+1669452807005	Marionette	INFO	Marionette enabled
+1669452807011	Marionette	INFO	Listening on port 14998
+WebDriver BiDi listening on ws://127.0.0.1:14985
+Read port: 14998
+1669452807283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUnlJw2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14985/devtools/browser/2e522eb4-96d2-493e-827e-e9ebd7df56e2
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669452926567	Marionette	INFO	Stopped listening on port 14998
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669452927913	geckodriver	INFO	Listening on 127.0.0.1:1232
+1669452930972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKp8Wp3"
+1669452931305	Marionette	INFO	Marionette enabled
+1669452931309	Marionette	INFO	Listening on port 1247
+Read port: 1247
+WebDriver BiDi listening on ws://127.0.0.1:1234
+1669452931404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKp8Wp3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1234/devtools/browser/de038809-715b-4c01-be66-d0ba464312ef
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453084100	Marionette	INFO	Stopped listening on port 1247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "1412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilecUZSlg"
+1669452992508	Marionette	INFO	Marionette enabled
+1669452992514	Marionette	INFO	Listening on port 1425
+Read port: 1425
+WebDriver BiDi listening on ws://127.0.0.1:1412
+1669452992629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilecUZSlg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1412/devtools/browser/7437f845-fabe-4712-8d8d-683175c2e166
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453014375	Marionette	INFO	Stopped listening on port 1425
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669453018861	geckodriver	INFO	Listening on 127.0.0.1:1512
+1669453021852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiHaK4d"
+1669453022184	Marionette	INFO	Marionette enabled
+1669453022189	Marionette	INFO	Listening on port 1528
+WebDriver BiDi listening on ws://127.0.0.1:1513
+Read port: 1528
+1669453022523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiHaK4d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1513/devtools/browser/e2828ab3-987d-49ae-a9be-439b2e7f9dd6
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453037357	Marionette	INFO	Stopped listening on port 1528
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669453060566	geckodriver	INFO	Listening on 127.0.0.1:1616
+1669453063623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerIlL1R"
+1669453063958	Marionette	INFO	Marionette enabled
+1669453063963	Marionette	INFO	Listening on port 1630
+WebDriver BiDi listening on ws://127.0.0.1:1617
+Read port: 1630
+1669453064280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerIlL1R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1617/devtools/browser/0edf78a4-671f-454e-89d6-894d304129b3
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453077149	Marionette	INFO	Stopped listening on port 1630
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669453097000	geckodriver	INFO	Listening on 127.0.0.1:1802
+1669453100039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilefQQYgq"
+1669453100528	Marionette	INFO	Marionette enabled
+1669453100536	Marionette	INFO	Listening on port 1817
+Read port: 1817
+WebDriver BiDi listening on ws://127.0.0.1:1803
+1669453100671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilefQQYgq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1803/devtools/browser/5f654feb-fd1d-4650-94b4-673bdac5ab59
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453115942	Marionette	INFO	Stopped listening on port 1817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669453135608	geckodriver	INFO	Listening on 127.0.0.1:1900
+1669453138627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile2DmJIg"
+1669453138959	Marionette	INFO	Marionette enabled
+1669453138964	Marionette	INFO	Listening on port 1913
+WebDriver BiDi listening on ws://127.0.0.1:1901
+Read port: 1913
+1669453139289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile2DmJIg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1901/devtools/browser/5fa833eb-890b-40bc-9067-2c01ee90c5e1
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/4590.6a974aa2447ad1b4.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/default/live/index.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+1669453655354	Marionette	INFO	Stopped listening on port 1913
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "2159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRgz2vV"
+1669453320417	Marionette	INFO	Marionette enabled
+1669453320422	Marionette	INFO	Listening on port 2171
+WebDriver BiDi listening on ws://127.0.0.1:2159
+Read port: 2171
+1669453320698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRgz2vV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2159/devtools/browser/71844b9b-2f59-4aa9-a7c8-287608df0a60
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453652063	Marionette	INFO	Stopped listening on port 2171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "2274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilejYyX3a"
+1669453387039	Marionette	INFO	Marionette enabled
+1669453387044	Marionette	INFO	Listening on port 2287
+WebDriver BiDi listening on ws://127.0.0.1:2274
+Read port: 2287
+1669453387325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilejYyX3a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2274/devtools/browser/50ea5087-2df8-48b4-851a-875134868970
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453652897	Marionette	INFO	Stopped listening on port 2287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "2371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile85jTgU"
+1669453425343	Marionette	INFO	Marionette enabled
+1669453425348	Marionette	INFO	Listening on port 2383
+WebDriver BiDi listening on ws://127.0.0.1:2371
+Read port: 2383
+1669453425660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile85jTgU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2371/devtools/browser/61dd2ed0-fcbb-45c2-a5fe-627c08245835
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453654026	Marionette	INFO	Stopped listening on port 2383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "2482" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile4FnCz7"
+1669453469820	Marionette	INFO	Marionette enabled
+1669453469826	Marionette	INFO	Listening on port 2495
+Read port: 2495
+WebDriver BiDi listening on ws://127.0.0.1:2482
+1669453469923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile4FnCz7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2482/devtools/browser/1c77f214-54aa-4449-9404-98adca4b5142
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453656388	Marionette	INFO	Stopped listening on port 2495
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "2618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePrRDUl"
+1669453547495	Marionette	INFO	Marionette enabled
+1669453547500	Marionette	INFO	Listening on port 2631
+WebDriver BiDi listening on ws://127.0.0.1:2618
+Read port: 2631
+1669453547872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePrRDUl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2618/devtools/browser/a3ba9024-ba07-4dfd-881f-c581092b3905
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/mall/pcmall-mall-landing-page.d960701f819e46e0cc9e.js, line 1: TypeError: t.data is undefined
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+1669453759315	Marionette	INFO	Stopped listening on port 2631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669453769975	geckodriver	INFO	Listening on 127.0.0.1:3003
+1669453773024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilebWLNqU"
+1669453773355	Marionette	INFO	Marionette enabled
+1669453773359	Marionette	INFO	Listening on port 3018
+WebDriver BiDi listening on ws://127.0.0.1:3004
+Read port: 3018
+1669453773659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilebWLNqU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3004/devtools/browser/8176f924-891d-4036-a2f8-15abedeb2d85
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669453833112	Marionette	INFO	Stopped listening on port 3018
+1669453835298	geckodriver	INFO	Listening on 127.0.0.1:3138
+1669453838346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileAygcLI"
+1669453838676	Marionette	INFO	Marionette enabled
+1669453838681	Marionette	INFO	Listening on port 3152
+WebDriver BiDi listening on ws://127.0.0.1:3139
+Read port: 3152
+1669453838973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileAygcLI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3139/devtools/browser/e46c4159-0eae-4ee6-a3f3-0595bac827da
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669453860206	Marionette	INFO	Stopped listening on port 3152
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669453886542	geckodriver	INFO	Listening on 127.0.0.1:3247
+1669453889603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWVrx5o"
+1669453889947	Marionette	INFO	Marionette enabled
+1669453889952	Marionette	INFO	Listening on port 3261
+WebDriver BiDi listening on ws://127.0.0.1:3248
+Read port: 3261
+1669453890142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWVrx5o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3248/devtools/browser/221f332c-bc1a-4b09-89f5-7f6b3fff8efc
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669454107170	Marionette	INFO	Stopped listening on port 3261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "3457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilezL9bgb"
+1669454001482	Marionette	INFO	Marionette enabled
+1669454001487	Marionette	INFO	Listening on port 3471
+Read port: 3471
+WebDriver BiDi listening on ws://127.0.0.1:3457
+1669454001587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilezL9bgb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3457/devtools/browser/55691629-9a53-4ffc-b686-7a72f2ff207d
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669454105278	Marionette	INFO	Stopped listening on port 3471
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669454200063	geckodriver	INFO	Listening on 127.0.0.1:3756
+1669454203110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7CpFW6"
+1669454203440	Marionette	INFO	Marionette enabled
+1669454203445	Marionette	INFO	Listening on port 3769
+WebDriver BiDi listening on ws://127.0.0.1:3757
+Read port: 3769
+1669454203741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7CpFW6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3757/devtools/browser/421bab01-2acc-4e6a-b57a-3d0dd67a104d
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669454238295	Marionette	INFO	Stopped listening on port 3769
+1669454277424	geckodriver	INFO	Listening on 127.0.0.1:3930
+1669454280468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile2C7PR0"
+1669454280805	Marionette	INFO	Marionette enabled
+1669454280809	Marionette	INFO	Listening on port 3944
+WebDriver BiDi listening on ws://127.0.0.1:3931
+Read port: 3944
+1669454281024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile2C7PR0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3931/devtools/browser/0131f381-76b0-4d51-a971-dcd9a5f7fb9b
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669454331512	Marionette	INFO	Stopped listening on port 3944
+1669454423285	geckodriver	INFO	Listening on 127.0.0.1:4164
+1669454426311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZH6d79"
+1669454426644	Marionette	INFO	Marionette enabled
+1669454426651	Marionette	INFO	Listening on port 4177
+Read port: 4177
+WebDriver BiDi listening on ws://127.0.0.1:4165
+1669454426750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZH6d79\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4165/devtools/browser/e600f7aa-1f66-47b0-9ab4-771253f0c0fa
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669455479922	Marionette	INFO	Stopped listening on port 4177
+
+DevTools listening on ws://127.0.0.1:4680/devtools/browser/298df296-596e-4225-9a7d-f51220bf70fb
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455480762	Marionette	INFO	Stopped listening on port 4694
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "4861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilekG4NLn"
+1669454937703	Marionette	INFO	Marionette enabled
+1669454937706	Marionette	INFO	Listening on port 4875
+WebDriver BiDi listening on ws://127.0.0.1:4861
+Read port: 4875
+1669454938031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilekG4NLn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4861/devtools/browser/85f37d9d-acb4-4a40-a4a4-f20637ea6b18
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'1669455483040	Marionette	INFO	Stopped listening on port 5065
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+sm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'1669455484190	Marionette	INFO	Stopped listening on port 5227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669455481886	Marionette	INFO	Stopped listening on port 4875
+deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455485596	Marionette	INFO	Stopped listening on port 5406
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "5586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileeAzdxq"
+1669455246578	Marionette	INFO	Marionette enabled
+1669455246582	Marionette	INFO	Listening on port 5600
+WebDriver BiDi listening on ws://127.0.0.1:5586
+Read port: 5600
+1669455246869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileeAzdxq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5586/devtools/browser/381a2f62-76e2-4b40-890b-b5fdb3ec8b7c
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455489176	Marionette	INFO	Stopped listening on port 5600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "5854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTMcQkz"
+1669455374084	Marionette	INFO	Marionette enabled
+1669455374088	Marionette	INFO	Listening on port 5870
+Read port: 5870
+WebDriver BiDi listening on ws://127.0.0.1:5854
+1669455374184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTMcQkz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5854/devtools/browser/18b62dba-001f-4424-923f-e0e87c2daa4c
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455490509	Marionette	INFO	Stopped listening on port 5870
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "5990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilexote6g"
+1669455395208	Marionette	INFO	Marionette enabled
+1669455395211	Marionette	INFO	Listening on port 6001
+WebDriver BiDi listening on ws://127.0.0.1:5990
+Read port: 6001
+1669455395381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilexote6g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5990/devtools/browser/e0b042fc-deec-4b8a-8510-a799c4ae9203
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455491811	Marionette	INFO	Stopped listening on port 6001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "6118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileXJ6VTZ"
+1669455417511	Marionette	INFO	Marionette enabled
+1669455417517	Marionette	INFO	Listening on port 6129
+WebDriver BiDi listening on ws://127.0.0.1:6118
+Read port: 6129
+1669455417688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileXJ6VTZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6118/devtools/browser/49e9080e-9d6e-437d-ac80-f2fcb7ef8c04
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455494490	Marionette	INFO	Stopped listening on port 6129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669455501886	geckodriver	INFO	Listening on 127.0.0.1:6360
+1669455504931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7JJ4ct"
+1669455505209	Marionette	INFO	Marionette enabled
+1669455505213	Marionette	INFO	Listening on port 6373
+Read port: 6373
+WebDriver BiDi listening on ws://127.0.0.1:6361
+1669455505316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7JJ4ct\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6361/devtools/browser/3a7b06e0-5c02-4469-bf98-584196746a21
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455717057	Marionette	INFO	Stopped listening on port 6373
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "6474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilea1PAI0"
+1669455528861	Marionette	INFO	Marionette enabled
+1669455528865	Marionette	INFO	Listening on port 6513
+WebDriver BiDi listening on ws://127.0.0.1:6474
+Read port: 6513
+1669455529120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilea1PAI0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6474/devtools/browser/dfec615b-cc1b-424c-9995-9ab21c743683
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455719240	Marionette	INFO	Stopped listening on port 6513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "6639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVjOoFB"
+1669455552636	Marionette	INFO	Marionette enabled
+1669455552640	Marionette	INFO	Listening on port 6650
+WebDriver BiDi listening on ws://127.0.0.1:6639
+Read port: 6650
+1669455552921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVjOoFB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6639/devtools/browser/3aecde6c-2d0f-4971-b049-245c05b5647b
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669455720338	Marionette	INFO	Stopped listening on port 6650
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669456007510	geckodriver	INFO	Listening on 127.0.0.1:6978
+1669456010556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileGFepIF"
+1669456010833	Marionette	INFO	Marionette enabled
+1669456010837	Marionette	INFO	Listening on port 6991
+Read port: 6991
+WebDriver BiDi listening on ws://127.0.0.1:6979
+1669456010917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileGFepIF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6979/devtools/browser/9807f789-0d6f-4080-829e-0d66efb0b067
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669456027452	geckodriver	INFO	Listening on 127.0.0.1:7051
+1669456030461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7052" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMhyeuQ"
+1669456030711	Marionette	INFO	Marionette enabled
+1669456030716	Marionette	INFO	Listening on port 7064
+WebDriver BiDi listening on ws://127.0.0.1:7052
+Read port: 7064
+1669456031000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMhyeuQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7052/devtools/browser/e9977ad1-985b-411b-8a32-450d28c0ee54
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
+1669456050068	geckodriver	INFO	Listening on 127.0.0.1:7176
+1669456053107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTHyHiy"
+1669456053379	Marionette	INFO	Marionette enabled
+1669456053383	Marionette	INFO	Listening on port 7186
+Read port: 7186
+WebDriver BiDi listening on ws://127.0.0.1:7177
+1669456053486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTHyHiy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7177/devtools/browser/22ffed00-9e53-4cff-a3f1-397af7a47767
+JavaScript warning: https://deo.shopeemobile.com/shopee/web-sdk/js/live/36ddfa55f2da93ccff3bad19fe0466c7ee5b12a2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Must have a compiled fragment shader attached: Missing shader.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/shopmicrofe/209.6fa683a1f2c550dd8dd5.legacy.js, line 1: Error: Network Error
